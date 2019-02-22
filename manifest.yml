@@ -40,6 +40,7 @@ static:
     'js/jquery-1.11.1.min.js': 'js/jquery-1.11.1.min.js'
     'js/handlebars.min.js': 'js/handlebars.min.js'
     'js/typeahead.min.js': 'js/typeahead.min.js'
+    'js/scroll.js': 'js/scroll.js'
 
 global:
     'index.twig':      'index.html'
